@@ -42,13 +42,11 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Sr. Problem Management Engineer – Engineering Service Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Problem-Management-Engineer---Engineering-Service-Management--Remote-_R23434)** — _n/a_ _(posted 2025-06-09)_
-* **[Sr. Software Engineer - Cloud Platform Reliability (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Software-Engineer---Cloud-Platform-Reliability--Remote-_R23418)** — _n/a_ _(posted 2025-06-04)_
 * **[Engineer III - Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Product-Security--Remote-_R23391)** — _n/a_ _(posted 2025-06-04)_
 * **[Principal Engineer – Engineering Service Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Principal-Engineer---Engineering-Service-Management--Remote-_R23376)** — _n/a_ _(posted 2025-06-03)_
 * **[SDET III - Flight Control (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III---Flight-Control--Remote-_R23305)** — _n/a_ _(posted 2025-05-27)_
 * **[Database Reliability Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Database-Reliability-Engineer-III--Remote-_R23300)** — _n/a_ _(posted 2025-05-23)_
 * **[Software Engineer III, Cloud SDET (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MD/Software-Engineer-III--Cloud-SDET--Remote--East-Coast-_R22933)** — _n/a_ _(posted 2025-04-15)_
-* **[Engineer III - Cloud SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Cloud-SDET--Remote-_R22873)** — _n/a_ _(posted 2025-04-09)_
 * **[Sr. Network Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Engineer--Remote-_R22558)** — _n/a_ _(posted 2025-04-03)_
 * **[Sr. SDET - Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-SDET---Windows-Sensor--Remote-_R22691-1)** — _n/a_ _(posted 2025-03-28)_
 * **[Sr. Site Reliability Engineer - GovCloud (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Site-Reliability-Engineer---GovCloud--Remote-_R22540)** — _n/a_ _(posted 2025-03-13)_
@@ -108,10 +106,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Senior Staff Electrical Component Engineer](https://job-boards.greenhouse.io/groq/jobs/6561598003)** — _n/a_ _(posted 2025-05-21)_
 * **[Systems Quality and Reliability Lead](https://job-boards.greenhouse.io/groq/jobs/6505634003)** — _n/a_ _(posted 2025-05-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
-
-* **[Senior Software Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/6932241)** — _n/a_ _(posted 2025-06-05)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
 
 * **[Microsoft Engineer - Senior](https://jobs.lever.co/idmworks/2744deee-064d-4f4e-aa72-7e816d8ab5f9)** — _n/a_ _(posted 2025-04-15)_
@@ -164,6 +158,7 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qp1uamkdt7aykfiliomk.webp" width="24" height="24" alt="Qualified.com logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Qualified.com](https://jobo.world/company/Qualified-Dotcom)
 
+* **[Engineering Manager, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/492bbaf7-1f1f-4a1c-8595-baef82692743)** — ¤190,000 – ¤210,000 USD _(posted 2025-06-14)_
 * **[Staff Software Engineer, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/aca7afc8-ae96-4bf6-bf6c-13024c77cb12)** — ¤230,000 – ¤260,000 USD _(posted 2025-04-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ensgjxchya3m8sf9hyym.webp" width="24" height="24" alt="ReadMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ReadMe](https://jobo.world/company/ReadMe)
@@ -194,6 +189,7 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oaw4ct5gyw4fxhtdshgo.webp" width="24" height="24" alt="Sanity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sanity](https://jobo.world/company/Sanityio)
 
+* **[Support Engineer](https://jobs.ashbyhq.com/sanity/5208212f-4c82-4ad6-8e9d-c6083c00df3e)** — _n/a_ _(posted 2025-06-14)_
 * **[Senior Product Security Engineer](https://jobs.ashbyhq.com/sanity/0e37bc20-f8de-44fb-977d-e2c3ca41c185)** — _n/a_ _(posted 2025-05-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zn4umzvmywnnpmqzyjoi.webp" width="24" height="24" alt="Sardine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sardine](https://jobo.world/company/Sardine)
@@ -225,10 +221,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Software Engineer](https://jobs.ashbyhq.com/sgnlai/3931b0e3-e29b-4472-9255-1783cd3b4364)** — _n/a_ _(posted 2025-03-12)_
 * **[Senior DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/18368176-2755-476c-aa5b-880e9c1a6269)** — _n/a_ _(posted 2025-03-12)_
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/sgnlai/fe22a401-6b22-497d-b2ec-49056aac1563)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtluyxvy2bihcc746mgd.webp" width="24" height="24" alt="Shift5 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Shift5](https://jobo.world/company/Shift5)
-
-* **[Field Engineer (Active Clearance Required)](https://boards.greenhouse.io/shift5/jobs/4337057004)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rgho9mftypxci7fsxn2r.webp" width="24" height="24" alt="Sift logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sift](https://jobo.world/company/Sift)
 
@@ -265,6 +257,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[System Reliability Test Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Reliability-Test-Engineer_R4714)** — _n/a_ _(posted 2025-04-01)_
 * **[Industrial Engineer, Commissioning Services](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Industrial-Engineer--Commissioning-Services_R4682)** — _n/a_ _(posted 2025-03-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/i0lugmi9cix2n7oslta7.webp" width="24" height="24" alt="Upkeep logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upkeep](https://jobo.world/company/Upkeep)
+
+* **[Staff Software Engineer - Frontend](https://job-boards.greenhouse.io/upkeep/jobs/4740536008)** — _n/a_ _(posted 2025-06-14)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w6zwntsobvido10onndn.webp" width="24" height="24" alt="User Interviews logo" style="vertical-align:middle"/>&nbsp;&nbsp;[User Interviews](https://jobo.world/company/User-Interviews)
 
 * **[Senior Software Engineer](https://boards.greenhouse.io/userinterviews/jobs/5531183004)** — _n/a_ _(posted 2025-05-02)_
@@ -275,7 +271,8 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
+* **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 * **[Sr. Staff Site Reliability Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4739118007)** — _n/a_ _(posted 2025-06-13)_
 
 ---
-_Updated automatically — 2025-06-14_
+_Updated automatically — 2025-06-16_
