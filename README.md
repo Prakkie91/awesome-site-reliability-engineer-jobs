@@ -47,6 +47,7 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Database Reliability Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Database-Reliability-Engineer-III--Remote-_R23300)** — _n/a_ _(posted 2025-05-23)_
 * **[Software Engineer III, Cloud SDET (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MD/Software-Engineer-III--Cloud-SDET--Remote--East-Coast-_R22933)** — _n/a_ _(posted 2025-04-15)_
 * **[Sr. Network Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Engineer--Remote-_R22558)** — _n/a_ _(posted 2025-04-03)_
+* **[Sr. SDET - Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-SDET---Windows-Sensor--Remote-_R22691-1)** — _n/a_ _(posted 2025-03-28)_
 * **[Sr. Site Reliability Engineer - GovCloud (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Site-Reliability-Engineer---GovCloud--Remote-_R22540)** — _n/a_ _(posted 2025-03-13)_
 * **[Sr. Database Reliability Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Database-Engineer--Remote-_R20365)** — _n/a_ _(posted 2025-02-26)_
 
@@ -79,10 +80,13 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Senior Engineer, Energy Efficiency (Hybrid/Remote - US)](https://job-boards.greenhouse.io/energysolutions/jobs/4749772007)** — _n/a_ _(posted 2025-06-19)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ukb2l72y2nmpoy7oo6wf.webp" width="24" height="24" alt="Eventbrite logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eventbrite](https://jobo.world/company/Eventbrite)
+
+* **[Engineering Manager - Relevance](https://job-boards.greenhouse.io/eventbriteinc/jobs/4745840007)** — _n/a_ _(posted 2025-05-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
 * **[Senior Software Engineer, iOS Platform Engineering](https://boards.greenhouse.io/fleetio/jobs/4703303007)** — _n/a_ _(posted 2025-04-10)_
-* **[Senior Site Reliability Engineer, Performance](https://boards.greenhouse.io/fleetio/jobs/4691452007)** — _n/a_ _(posted 2025-03-28)_
 * **[Senior Site Reliability Engineer](https://boards.greenhouse.io/fleetio/jobs/4642000007)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jy37ytidfhwof6jnycfb.webp" width="24" height="24" alt="Fullscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fullscript](https://jobo.world/company/FullScript)
@@ -178,7 +182,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hqzwsmenscskpexh3evu.webp" width="24" height="24" alt="Ro logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ro](https://jobo.world/company/Ro)
 
 * **[Senior Security Engineer](https://jobs.lever.co/ro/dc9c3cc3-bdef-42f2-8c40-6321050776f4)** — _n/a_ _(posted 2025-06-06)_
-* **[Engineering Manager, Infrastructure](https://jobs.lever.co/ro/d4c94793-05fc-41ab-b7f9-2e13fc21f8c4)** — _n/a_ _(posted 2025-05-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oaw4ct5gyw4fxhtdshgo.webp" width="24" height="24" alt="Sanity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sanity](https://jobo.world/company/Sanityio)
 
@@ -281,4 +284,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Sr. Staff Site Reliability Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4739118007)** — _n/a_ _(posted 2025-06-13)_
 
 ---
-_Updated automatically — 2025-06-21_
+_Updated automatically — 2025-06-22_
