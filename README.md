@@ -33,6 +33,7 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
+* **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5571911004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-25)_
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/cribl/jobs/5568690004)** — _n/a_ _(posted 2025-06-24)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5499020004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-10)_
 * **[Principal Site Reliability Engineer](https://job-boards.greenhouse.io/cribl/jobs/5516726004)** — _n/a_ _(posted 2025-05-30)_
@@ -49,7 +50,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Database Reliability Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Database-Reliability-Engineer-III--Remote-_R23300)** — _n/a_ _(posted 2025-05-23)_
 * **[Software Engineer III, Cloud SDET (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MD/Software-Engineer-III--Cloud-SDET--Remote--East-Coast-_R22933)** — _n/a_ _(posted 2025-04-15)_
 * **[Sr. Network Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Engineer--Remote-_R22558)** — _n/a_ _(posted 2025-04-03)_
-* **[Sr. SDET - Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-SDET---Windows-Sensor--Remote-_R22691-1)** — _n/a_ _(posted 2025-03-28)_
 * **[Sr. Database Reliability Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Database-Engineer--Remote-_R20365)** — _n/a_ _(posted 2025-02-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
@@ -80,10 +80,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r3lbc66nbljutjcnwp4d.webp" width="24" height="24" alt="Energy Solutions logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Energy Solutions](https://jobo.world/company/EnergySolutions)
 
 * **[Senior Engineer, Energy Efficiency (Hybrid/Remote - US)](https://job-boards.greenhouse.io/energysolutions/jobs/4749772007)** — _n/a_ _(posted 2025-06-19)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ukb2l72y2nmpoy7oo6wf.webp" width="24" height="24" alt="Eventbrite logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eventbrite](https://jobo.world/company/Eventbrite)
-
-* **[Engineering Manager - Relevance](https://job-boards.greenhouse.io/eventbriteinc/jobs/4745840007)** — _n/a_ _(posted 2025-05-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
@@ -267,6 +263,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Senior Software Engineer](https://boards.greenhouse.io/userinterviews/jobs/5531183004)** — _n/a_ _(posted 2025-05-02)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygqzgbwrwuvbsepmqef7.webp" width="24" height="24" alt="Vantage  logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vantage ](https://jobo.world/company/Vantage)
+
+* **[Senior Site Reliability Engineer](https://jobs.ashbyhq.com/vantage/4207f99d-a6dd-458a-8fdd-79599b76eb42)** — ¤180,000 – ¤220,000 USD _(posted 2025-06-25)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/co8n6z9rsyu4svyz2enj.webp" width="24" height="24" alt="VergeSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[VergeSense](https://jobo.world/company/VergeSense)
 
 * **[Senior Software Engineer](https://jobs.lever.co/vergesense/bd9dd5f3-ad39-492a-b32b-c026993c1da6)** — _n/a_ _(posted 2025-05-02)_
@@ -281,4 +281,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Sr. Staff Site Reliability Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4739118007)** — _n/a_ _(posted 2025-06-13)_
 
 ---
-_Updated automatically — 2025-06-25_
+_Updated automatically — 2025-06-26_
