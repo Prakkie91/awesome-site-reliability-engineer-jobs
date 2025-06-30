@@ -49,6 +49,7 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
+* **[Sales Engineer, Southwest (Enterprise)](https://job-boards.greenhouse.io/cribl/jobs/5551848004)** — ¤110,000 – ¤182,000 USD _(posted 2025-06-29)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5571911004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-25)_
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/cribl/jobs/5568690004)** — _n/a_ _(posted 2025-06-24)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5499020004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-10)_
@@ -221,7 +222,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rgho9mftypxci7fsxn2r.webp" width="24" height="24" alt="Sift logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sift](https://jobo.world/company/Sift)
 
-* **[Senior Software Engineer](https://jobs.ashbyhq.com/sift/2fe14b26-83d5-4b6e-a8d9-e43168d1ad1a)** — _n/a_ _(posted 2025-05-02)_
 * **[Staff Cloud Platform Engineer- Core Infra](https://jobs.ashbyhq.com/sift/07aa92d9-6b79-43aa-9703-4b64e2d819f0)** — ¤164,200 – ¤222,200 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
@@ -284,4 +284,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-06-29_
+_Updated automatically — 2025-06-30_
