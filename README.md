@@ -54,7 +54,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5571911004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-25)_
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/cribl/jobs/5568690004)** — _n/a_ _(posted 2025-06-24)_
-* **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5499020004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-10)_
 * **[Principal Site Reliability Engineer](https://job-boards.greenhouse.io/cribl/jobs/5516726004)** — _n/a_ _(posted 2025-05-30)_
 * **[Sr Staff Software Engineer, Stream Integrations](https://job-boards.greenhouse.io/cribl/jobs/5489714004)** — _n/a_ _(posted 2025-04-15)_
 
@@ -98,6 +97,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Senior Software Engineer, iOS Platform Engineering](https://boards.greenhouse.io/fleetio/jobs/4703303007)** — _n/a_ _(posted 2025-04-10)_
 * **[Senior Site Reliability Engineer](https://boards.greenhouse.io/fleetio/jobs/4642000007)** — _n/a_ _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jy37ytidfhwof6jnycfb.webp" width="24" height="24" alt="Fullscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fullscript](https://jobo.world/company/FullScript)
+
+* **[Staff Engineer, Search](https://jobs.lever.co/fullscript/854d4aa0-dfde-4707-8fe8-22471de560c5)** — _n/a_ _(posted 2025-02-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cx1jxbij2fiwfn1atfex.webp" width="24" height="24" alt="GitLab logo" style="vertical-align:middle"/>&nbsp;&nbsp;[GitLab](https://jobo.world/company/GitLab)
 
@@ -293,4 +296,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-02_
+_Updated automatically — 2025-07-03_
