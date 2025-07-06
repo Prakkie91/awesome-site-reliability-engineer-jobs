@@ -98,10 +98,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Senior Software Engineer, iOS Platform Engineering](https://boards.greenhouse.io/fleetio/jobs/4703303007)** — _n/a_ _(posted 2025-04-10)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jy37ytidfhwof6jnycfb.webp" width="24" height="24" alt="Fullscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fullscript](https://jobo.world/company/FullScript)
-
-* **[Staff Engineer, Search](https://jobs.lever.co/fullscript/854d4aa0-dfde-4707-8fe8-22471de560c5)** — _n/a_ _(posted 2025-02-13)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cx1jxbij2fiwfn1atfex.webp" width="24" height="24" alt="GitLab logo" style="vertical-align:middle"/>&nbsp;&nbsp;[GitLab](https://jobo.world/company/GitLab)
 
 * **[Principal Engineer, Infrastructure Platforms](https://job-boards.greenhouse.io/gitlab/jobs/7913752002)** — ¤140,000 – ¤200,000 USD _(posted 2025-05-15)_
@@ -208,6 +204,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[DevOps Lead ](https://jobs.ashbyhq.com/sardine/7017acff-c1fa-4795-b56c-0dcd336687c5)** — _n/a_ _(posted 2025-04-23)_
 * **[Software Engineer - AI Products](https://jobs.ashbyhq.com/sardine/f1d28d19-16d4-44af-85dd-3a5277a09375)** — ¤170,000 – ¤220,000 USD _(posted 2025-03-13)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q980vtbupbvhldx41hpg.webp" width="24" height="24" alt="ScienceLogic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ScienceLogic](https://jobo.world/company/ScienceLogic)
+
+* **[Sr. UX Engineer](https://boards.greenhouse.io/sciencelogic/jobs/6807020)** — _n/a_ _(posted 2025-04-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxxhtbeehm6paq1tiic8.webp" width="24" height="24" alt="Semtech logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Semtech](https://jobo.world/company/Semtech)
 
 * **[Service Assurance Engineer](https://semtech.wd1.myworkdayjobs.com/semtechcareers/job/USA---GA-Remote/Service-Assurance-Engineer_REQ2581)** — _n/a_ _(posted 2025-01-27)_
@@ -296,4 +296,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-05_
+_Updated automatically — 2025-07-06_
