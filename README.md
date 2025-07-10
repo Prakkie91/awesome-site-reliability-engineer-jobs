@@ -6,6 +6,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ---
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/onmz3yffvx4vbmprmkam.webp" width="24" height="24" alt="Aerospike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aerospike](https://jobo.world/company/Aerospike)
+
+* **[Staff Site Reliability Engineer](https://job-boards.greenhouse.io/aerospike/jobs/8067578002)** — _n/a_ _(posted 2025-07-09)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
 
 * **[Staff Software Engineer - SRE, Backend (Reliability Engineering)](https://job-boards.greenhouse.io/affirm/jobs/6356178003)** — _n/a_ _(posted 2025-05-21)_
@@ -14,11 +18,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Principal Site Reliability Engineer - Americas](https://jobs.ashbyhq.com/ashby/443ded5b-4baf-4bdc-8081-1666b4cb7ee3)** — ¤200,000 – ¤260,000 USD _(posted 2025-06-16)_
 * **[Infrastructure Engineer](https://jobs.ashbyhq.com/reteam/8cfd5149-0d84-4485-ac22-96d67a823fcf)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
-
-* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000069187921-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-07)_
-* **[Senior Software Engineer Development in Test](https://jobs.smartrecruiters.com/Believe/744000069148315-senior-software-engineer-development-in-test?oga=true)** — _n/a_ _(posted 2025-07-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/anthlwqnh3ckdkwq7uvi.webp" width="24" height="24" alt="BigCommerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BigCommerce](https://jobo.world/company/BigCommerce)
 
@@ -183,6 +182,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Infrastructure Engineering Manager](https://jobs.ashbyhq.com/readme/68e43f76-41be-43f9-aaea-604b251c16be)** — _n/a_ _(posted 2025-04-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zznxo2xrsb1vzlwmdok0.webp" width="24" height="24" alt="Red Cell Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Cell Partners](https://jobo.world/company/RedCellPartners)
+
+* **[Senior Software Engineer (Full Stack)](https://job-boards.greenhouse.io/redcellpartners/jobs/4773651007)** — _n/a_ _(posted 2025-06-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ooageyecwxjflkskrez8.webp" width="24" height="24" alt="Reliable Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reliable Robotics](https://jobo.world/company/Reliable-Robotics)
 
 * **[Systems Safety Engineer](https://jobs.lever.co/reliable/c141557c-dde1-4bac-8fd3-eda89e7864d0)** — _n/a_ _(posted 2023-06-08)_
@@ -233,12 +236,9 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
 * **[Staff Software Engineer](https://jobs.ashbyhq.com/sgnlai/0dd34fcd-f0c7-4b78-b31d-f8a6ebf064a0)** — _n/a_ _(posted 2025-03-12)_
+* **[Software Engineer](https://jobs.ashbyhq.com/sgnlai/3931b0e3-e29b-4472-9255-1783cd3b4364)** — _n/a_ _(posted 2025-03-12)_
 * **[Senior DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/18368176-2755-476c-aa5b-880e9c1a6269)** — _n/a_ _(posted 2025-03-12)_
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/sgnlai/fe22a401-6b22-497d-b2ec-49056aac1563)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rgho9mftypxci7fsxn2r.webp" width="24" height="24" alt="Sift logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sift](https://jobo.world/company/Sift)
-
-* **[Staff Cloud Platform Engineer- Core Infra](https://jobs.ashbyhq.com/sift/07aa92d9-6b79-43aa-9703-4b64e2d819f0)** — ¤164,200 – ¤222,200 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
 
@@ -267,12 +267,12 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
+* **[Network Installation Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Network-Installation-Engineer_R5056)** — _n/a_ _(posted 2025-07-08)_
 * **[Director of Engineering](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Director-of-Engineering_R5042)** — _n/a_ _(posted 2025-07-02)_
 * **[Industrial Controls Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Industrial-Controls-Engineer_R5024-1)** — _n/a_ _(posted 2025-06-30)_
 * **[System Engineer – All Locations (Onsite)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Engineer---All-Locations--Onsite-_R4992)** — _n/a_ _(posted 2025-06-18)_
 * **[Technical Control Engineer (Site Startup)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer--Site-Startup-_R4781)** — _n/a_ _(posted 2025-06-03)_
 * **[Technical Control Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer_R4776-1)** — _n/a_ _(posted 2025-04-16)_
-* **[System Reliability Test Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Reliability-Test-Engineer_R4714)** — _n/a_ _(posted 2025-04-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wkrv8bqwzwnyiu1zirqr.webp" width="24" height="24" alt="Trunk Tools logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trunk Tools](https://jobo.world/company/Trunk-Tools,-Inc.)
 
@@ -299,4 +299,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-09_
+_Updated automatically — 2025-07-10_
