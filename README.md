@@ -51,16 +51,17 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Site Reliability Engineer](https://jobs.ashbyhq.com/close/6610824b-2d94-4071-90e0-bafc3b078870)** — _n/a_ _(posted 2025-05-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/waipgepcsalq2dll3eq1.webp" width="24" height="24" alt="Cohere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cohere](https://jobo.world/company/Cohere)
-
-* **[Senior Site Reliability Engineer, Model Serving Infrastructure](https://jobs.ashbyhq.com/cohere/3343e9fa-2ba5-42c8-a84c-6d949edd9271)** — _n/a_ _(posted 2025-06-27)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ryt5tjq7ftjfh2sfczyk.webp" width="24" height="24" alt="Coinbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coinbase](https://jobo.world/company/Coinbase)
 
 * **[Senior Site Reliability Engineer - Platform](https://boards.greenhouse.io/cbreferral/jobs/5963589)** — _n/a_ _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
+
+* **[Site Reliability Engineer - FedRAMP](https://jobs.ashbyhq.com/confluent/df564429-765d-4536-8ba8-a91766d722ec)** — ¤160,100 – ¤188,100 USD _(posted 2025-07-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
+* **[Senior Technical Support Engineer](https://job-boards.greenhouse.io/cribl/jobs/5527341004)** — _n/a_ _(posted 2025-07-12)_
 * **[Engineering Manager, Cribl Stream](https://job-boards.greenhouse.io/cribl/jobs/5560161004)** — _n/a_ _(posted 2025-07-04)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5571911004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-25)_
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/cribl/jobs/5568690004)** — _n/a_ _(posted 2025-06-24)_
@@ -69,6 +70,9 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr Engineer - Cloud SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Engineer---Cloud-SDET--Remote-_R23879)** — _n/a_ _(posted 2025-07-11)_
+* **[Sr. Engineer - Content Systems (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Content-Systems--Remote-_R23880)** — _n/a_ _(posted 2025-07-11)_
+* **[SDET III, Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III--Windows-Sensor--Remote-_R23865)** — _n/a_ _(posted 2025-07-11)_
 * **[Sr. Engineer - Front End SDET (Remote, PST)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Engineer---Front-End-SDET--Remote--PST-_R23836)** — _n/a_ _(posted 2025-07-09)_
 * **[Sr. Sensor SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Sensor-SDET--Remote-_R23760)** — _n/a_ _(posted 2025-07-07)_
 * **[Continuous Improvement Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Continuous-Improvement-Engineer--Remote-_R23611)** — _n/a_ _(posted 2025-06-23)_
@@ -94,21 +98,9 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Website Engineer ](https://jobs.ashbyhq.com/elevenlabs/20476dac-9e9d-4a34-9b84-8cf97b7cc35e)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r3lbc66nbljutjcnwp4d.webp" width="24" height="24" alt="Energy Solutions logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Energy Solutions](https://jobo.world/company/EnergySolutions)
-
-* **[Senior Engineer, Energy Efficiency (Hybrid/Remote - US)](https://job-boards.greenhouse.io/energysolutions/jobs/4749772007)** — _n/a_ _(posted 2025-06-19)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pu4qh0i5onxf33cza17v.webp" width="24" height="24" alt="Fetch logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fetch](https://jobo.world/company/FetchRewards)
-
-* **[Staff SDET Engineer](https://job-boards.greenhouse.io/fetchrewards/jobs/6626013003)** — _n/a_ _(posted 2025-07-01)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
 * **[Senior Software Engineer, iOS Platform Engineering](https://boards.greenhouse.io/fleetio/jobs/4703303007)** — _n/a_ _(posted 2025-04-10)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jy37ytidfhwof6jnycfb.webp" width="24" height="24" alt="Fullscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fullscript](https://jobo.world/company/FullScript)
-
-* **[Staff Engineer, Search](https://jobs.lever.co/fullscript/854d4aa0-dfde-4707-8fe8-22471de560c5)** — _n/a_ _(posted 2025-02-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cx1jxbij2fiwfn1atfex.webp" width="24" height="24" alt="GitLab logo" style="vertical-align:middle"/>&nbsp;&nbsp;[GitLab](https://jobo.world/company/GitLab)
 
@@ -131,6 +123,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
 * **[Sr Software Engineer (Compliance)](https://job-boards.greenhouse.io/humaninterest/jobs/7036034)** — _n/a_ _(posted 2025-07-10)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
+
+* **[Lead Applications Architect- Site Reliability Engineering](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Lead-Applications-Architect--Site-Reliability-Engineering_R-378845-1)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
 
@@ -219,10 +215,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Software Engineer - AI Products](https://jobs.ashbyhq.com/sardine/f1d28d19-16d4-44af-85dd-3a5277a09375)** — ¤170,000 – ¤220,000 USD _(posted 2025-03-13)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q980vtbupbvhldx41hpg.webp" width="24" height="24" alt="ScienceLogic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ScienceLogic](https://jobo.world/company/ScienceLogic)
-
-* **[Sr. UX Engineer](https://boards.greenhouse.io/sciencelogic/jobs/6807020)** — _n/a_ _(posted 2025-04-16)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxxhtbeehm6paq1tiic8.webp" width="24" height="24" alt="Semtech logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Semtech](https://jobo.world/company/Semtech)
 
 * **[Service Assurance Engineer](https://semtech.wd1.myworkdayjobs.com/semtechcareers/job/USA---GA-Remote/Service-Assurance-Engineer_REQ2581)** — _n/a_ _(posted 2025-01-27)_
@@ -234,7 +226,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Sr. Sustaining Firmware Engineer](https://jobs.ashbyhq.com/serverobotics/3e887bca-5664-4102-96ff-289b97a8695e)** — ¤140,000 – ¤170,000 USD _(posted 2025-06-07)_
 * **[Sr. Software Engineer, Delivery Platform](https://jobs.ashbyhq.com/serverobotics/1980ecb4-d381-4ca2-9b86-555686e677e6)** — ¤150,000 – ¤200,000 USD _(posted 2025-05-31)_
 * **[Director of Engineering, Operations Tools Suite](https://jobs.ashbyhq.com/serverobotics/ce7c89e9-b5e9-4f0e-9007-8ebc3314bc43)** — ¤120,000 – ¤180,000 USD _(posted 2025-05-15)_
-* **[Full-Stack Software Engineer, Internal Services](https://jobs.ashbyhq.com/serverobotics/3cd15216-68ba-40e3-91a2-17e3817db7f0)** — ¤175,000 – ¤230,000 USD _(posted 2025-05-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
@@ -305,4 +296,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-12_
+_Updated automatically — 2025-07-13_
