@@ -142,10 +142,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Senior Infrastructure Engineer](https://jobs.ashbyhq.com/docker/38b71741-bba4-48e6-91b0-3fefa4accbae)** — ¤113,200 – ¤155,700 EUR _(posted 2025-06-28)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nuj1aprpm0ufo9wwlehb.webp" width="24" height="24" alt="eBay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[eBay](https://jobo.world/company/E-Bay)
-
-* **[Frontline Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Pennsylvania/Frontline-Engineer_R0068049-1)** — _n/a_ _(posted 2025-06-11)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjzvua7bmfx6h8mziyhl.webp" width="24" height="24" alt="FiscalNote logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FiscalNote](https://jobo.world/company/FiscalNote)
 
 * **[Lead Software Engineer, DevOps](https://jobs.lever.co/fiscalnote/2281962b-fcca-4d2b-b6a7-5a76fad52cde)** — _n/a_ _(posted 2025-05-30)_
@@ -263,6 +259,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[AWS Dev Ops Engineer](https://job-boards.greenhouse.io/rxsense/jobs/4583460005)** — _n/a_ _(posted 2025-07-08)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
+
+* **[Staff Site Reliability Engineer - Federal - 3rd Shift](https://jobs.smartrecruiters.com/ServiceNow/744000070573009-staff-site-reliability-engineer-federal-3rd-shift?oga=true)** — _n/a_ _(posted 2025-07-14)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
 * **[Senior DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/18368176-2755-476c-aa5b-880e9c1a6269)** — _n/a_ _(posted 2025-03-12)_
@@ -335,4 +335,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-15_
+_Updated automatically — 2025-07-16_
