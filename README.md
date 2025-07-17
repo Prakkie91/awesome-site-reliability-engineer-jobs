@@ -64,7 +64,7 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
 
-* **[Cloud - Azure Infra Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Cloud---Azure-Infra-Engineer_JR7798)** — _n/a_ _(posted 2025-05-12)_
+* **[Cloud - Azure Infra Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Cloud---Azure-Infra-Engineer_JR7799-1)** — _n/a_ _(posted 2025-07-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kbjuvkagbkxjkxj883nu.webp" width="24" height="24" alt="Chainlink Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainlink Labs](https://jobo.world/company/Chainlink-Labs)
 
@@ -131,16 +131,11 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e6q2rqxidfkrkn9dkpth.webp" width="24" height="24" alt="Demandbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Demandbase](https://jobo.world/company/Demand-Base)
 
-* **[Staff Database Reliability Engineer (DBRE)](https://job-boards.greenhouse.io/demandbase/jobs/6791727)** — ¤140,000 – ¤210,000 USD _(posted 2025-04-26)_
 * **[Manager, Database Reliability Engineering (DBRE)](https://job-boards.greenhouse.io/demandbase/jobs/6786042)** — ¤220,000 – ¤330,000 USD _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/numhti7b6zfmpjeszdjp.webp" width="24" height="24" alt="Ditto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ditto](https://jobo.world/company/Ditto)
 
 * **[Senior Software Engineer](https://boards.greenhouse.io/dittoliveincorporated/jobs/4556306006)** — _n/a_ _(posted 2025-04-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qu9jqnedghpqqymgn9qw.webp" width="24" height="24" alt="Docker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Docker](https://jobo.world/company/Docker)
-
-* **[Senior Infrastructure Engineer](https://jobs.ashbyhq.com/docker/38b71741-bba4-48e6-91b0-3fefa4accbae)** — ¤113,200 – ¤155,700 EUR _(posted 2025-06-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjzvua7bmfx6h8mziyhl.webp" width="24" height="24" alt="FiscalNote logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FiscalNote](https://jobo.world/company/FiscalNote)
 
@@ -208,6 +203,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
 * **[Apply here to join Nutrafol&#x27;s Talent Community!](https://job-boards.greenhouse.io/nutrafol/jobs/4385354005)** — _n/a_ _(posted 2025-04-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ivphavgil7ptqgv0jw3w.webp" width="24" height="24" alt="Openly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Openly](https://jobo.world/company/Openly)
+
+* **[Senior Site Reliability Engineer (Remote, US)](https://job-boards.greenhouse.io/openly/jobs/4585497005)** — _n/a_ _(posted 2025-07-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l4bo4rdk0efiqvvzos5y.webp" width="24" height="24" alt="Oura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oura](https://jobo.world/company/Oura)
 
@@ -299,6 +298,7 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r40ajrc2uetxb7obycan.webp" width="24" height="24" alt="TetraScience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TetraScience](https://jobo.world/company/TetraScience)
 
+* **[Lead Platform Engineer](https://apply.workable.com/tetrascience/j/9C78579164/)** — _n/a_ _(posted 2025-07-15)_
 * **[Senior Software Engineer - Observability](https://apply.workable.com/tetrascience/j/8BC4FDD7F4/)** — _n/a_ _(posted 2025-07-14)_
 * **[Senior Software Engineer - Customer Engineering](https://apply.workable.com/tetrascience/j/793F5A54B1/)** — _n/a_ _(posted 2025-07-10)_
 
@@ -335,4 +335,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-16_
+_Updated automatically — 2025-07-17_
