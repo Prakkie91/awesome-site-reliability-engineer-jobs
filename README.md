@@ -17,6 +17,8 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
 
+* **[Staff Software Engineer, Backend (CI/CD)](https://job-boards.greenhouse.io/affirm/jobs/6644302003)** — _n/a_ _(posted 2025-07-24)_
+* **[Staff Software Engineer, Backend (Code to Environments)](https://job-boards.greenhouse.io/affirm/jobs/6644732003)** — _n/a_ _(posted 2025-07-23)_
 * **[Staff Software Engineer - SRE, Backend (Reliability Engineering)](https://job-boards.greenhouse.io/affirm/jobs/6356178003)** — _n/a_ _(posted 2025-05-21)_
 * **[Principal Software Engineer, Infrastructure Platform Engineering](https://job-boards.greenhouse.io/affirm/jobs/6482567003)** — _n/a_ _(posted 2025-03-30)_
 
@@ -37,6 +39,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Pre-Sales Engineer](https://job-boards.greenhouse.io/auctane/jobs/6629774003)** — _n/a_ _(posted 2025-07-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pkhbb3jf8o5ube3nrgac.webp" width="24" height="24" alt="Bankers Healthcare Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bankers Healthcare Group](https://jobo.world/company/Bankers-Healthcare-Group)
+
+* **[DevOps Engineer](https://ghc.wd1.myworkdayjobs.com/ghg_careers/job/RemoteNationwide-USA/DevOps-Engineer_JR246733)** — _n/a_ _(posted 2025-05-15)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
 
 * **[Staff Platform Engineer](https://jobs.ashbyhq.com/bestow/5ae20af8-d6b6-4a90-bc29-230692891b8f)** — ¤190,000 – ¤220,000 USD _(posted 2025-07-18)_
@@ -55,7 +61,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
 
-* **[DevOps Manager](https://cars.wd12.myworkdayjobs.com/cars/job/Remote---United-States/DevOps-Manager_JR10643)** — _n/a_ _(posted 2025-07-03)_
 * **[Software Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Software-Engineer_JR10397-1)** — _n/a_ _(posted 2025-06-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
@@ -69,7 +74,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/id82rffdtflzgytga1hv.webp" width="24" height="24" alt="Chronosphere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chronosphere](https://jobo.world/company/Chronosphere)
 
-* **[Implementation Engineer](https://jobs.ashbyhq.com/chronospherejobs/35c0b720-d136-48c5-a46a-6ed9a5067de9)** — ¤90,000 – ¤115,000 USD _(posted 2025-06-14)_
 * **[Member of Technical Staff - Logging](https://jobs.ashbyhq.com/chronospherejobs/fb90c4ff-45da-4a19-b1b7-533786194be6)** — ¤200,000 – ¤250,000 USD _(posted 2025-06-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/z4zq76animagivzsx9d4.webp" width="24" height="24" alt="Cision logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cision](https://jobo.world/company/Cision)
@@ -93,10 +97,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbfespi3tbwe37eihuwb.webp" width="24" height="24" alt="Close logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Close](https://jobo.world/company/Close)
 
 * **[Site Reliability Engineer](https://jobs.ashbyhq.com/close/6610824b-2d94-4071-90e0-bafc3b078870)** — _n/a_ _(posted 2025-05-24)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/waipgepcsalq2dll3eq1.webp" width="24" height="24" alt="Cohere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cohere](https://jobo.world/company/Cohere)
-
-* **[Member of Technical Staff, Model Serving Infrastructure](https://jobs.ashbyhq.com/cohere/df260e46-205e-45ac-9c31-43094ee9c3db)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ryt5tjq7ftjfh2sfczyk.webp" width="24" height="24" alt="Coinbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coinbase](https://jobo.world/company/Coinbase)
 
@@ -136,6 +136,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Frontline Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Pennsylvania/Frontline-Engineer_R0068137-2)** — _n/a_ _(posted 2025-07-16)_
 * **[Linux DevOps Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-United-States/Linux-DevOps-Engineer_R0067348)** — _n/a_ _(posted 2025-05-09)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wpkaroszpgkzglupy3hh.webp" width="24" height="24" alt="EvolutionIQ logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EvolutionIQ](https://jobo.world/company/EvolutionIQ)
+
+* **[Senior DevOps Engineer (CloudInfra)](https://job-boards.greenhouse.io/evolutioniq/jobs/5597840004)** — _n/a_ _(posted 2025-07-25)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
 * **[Staff DevOps Engineer, Remote](https://jobs.smartrecruiters.com/Experian/744000071894525-staff-devops-engineer-remote?oga=true)** — _n/a_ _(posted 2025-07-21)_
@@ -147,6 +151,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bsmaovurtw5whly25w0f.webp" width="24" height="24" alt="Forethought logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Forethought](https://jobo.world/company/Forethought)
 
 * **[DevOps Engineer](https://job-boards.greenhouse.io/forethought/jobs/5568169004)** — _n/a_ _(posted 2025-06-19)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ttt7yt8jgmemfkliscye.webp" width="24" height="24" alt="Forward Networks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Forward Networks](https://jobo.world/company/Forward-Networks)
+
+* **[DevOps Engineer](https://job-boards.greenhouse.io/forwardnetworks/jobs/6652795003)** — _n/a_ _(posted 2025-07-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/axruduxnqug3eoqn0chh.webp" width="24" height="24" alt="FreshBooks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FreshBooks](https://jobo.world/company/FreshBooks)
 
@@ -162,6 +170,7 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/duudfzm9nsk8vg5zdvws.webp" width="24" height="24" alt="Grafana Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Grafana Labs](https://jobo.world/company/Grafana-Labs)
 
+* **[Senior Solutions Architect PST (Remote, USA)](https://job-boards.greenhouse.io/grafanalabs/jobs/5595385004)** — _n/a_ _(posted 2025-07-23)_
 * **[Observability Architect EST (Remote, USA)](https://job-boards.greenhouse.io/grafanalabs/jobs/5564591004)** — _n/a_ _(posted 2025-06-14)_
 * **[Observability Architect PST (Remote, USA)](https://job-boards.greenhouse.io/grafanalabs/jobs/5562273004)** — _n/a_ _(posted 2025-06-11)_
 
@@ -201,6 +210,14 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Software Engineer, SRE (Staff/Senior Levels)](https://jobs.ashbyhq.com/kustomer/f41c5a98-1248-44c7-a2bb-880ef4ffcf90)** — _n/a_ _(posted 2025-06-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
+
+* **[Senior Engineer, NSO (Network and Systems Operations)](https://job-boards.greenhouse.io/life360/jobs/8088925002)** — _n/a_ _(posted 2025-07-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjahxbscuxlyey0keefe.webp" width="24" height="24" alt="Loop logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Loop](https://jobo.world/company/Loop)
+
+* **[Engineering Manager - DevOps](https://jobs.lever.co/loopreturns/9ee9f363-5b7c-4eb9-a704-0ac7b83beb46)** — _n/a_ _(posted 2025-07-23)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/srry4v99yg18r3o0owsd.webp" width="24" height="24" alt="Maven Clinic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Maven Clinic](https://jobo.world/company/Maven-Clinic)
 
 * **[Senior Software Engineer, Infrastructure](https://job-boards.greenhouse.io/mavenclinic/jobs/7956732002)** — _n/a_ _(posted 2025-04-15)_
@@ -211,7 +228,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
 
-* **[Software Engineer, Distributed Systems](https://job-boards.greenhouse.io/mixpanel/jobs/3924606)** — _n/a_ _(posted 2025-06-25)_
 * **[Senior Software Engineer, Platform Engineering](https://job-boards.greenhouse.io/mixpanel/jobs/6888928)** — _n/a_ _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
@@ -225,10 +241,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ivphavgil7ptqgv0jw3w.webp" width="24" height="24" alt="Openly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Openly](https://jobo.world/company/Openly)
 
 * **[Senior Site Reliability Engineer (Remote, US)](https://job-boards.greenhouse.io/openly/jobs/4585497005)** — _n/a_ _(posted 2025-07-16)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l4bo4rdk0efiqvvzos5y.webp" width="24" height="24" alt="Oura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oura](https://jobo.world/company/Oura)
-
-* **[Senior Site Reliability Engineer](https://apply.workable.com/oura-health-ltd/j/6649E9306C/)** — ¤162,000 USD _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
 
@@ -269,13 +281,8 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Forward Deploy Engineer](https://jobs.ashbyhq.com/rogo/180e1eb4-c1a9-4b36-a48e-c057221a2d6c)** — _n/a_ _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
-
-* **[AWS Dev Ops Engineer](https://job-boards.greenhouse.io/rxsense/jobs/4583460005)** — _n/a_ _(posted 2025-07-08)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
-* **[Senior DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/18368176-2755-476c-aa5b-880e9c1a6269)** — _n/a_ _(posted 2025-03-12)_
 * **[DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/47e2b427-1cff-4c66-b419-06aaedd2a875)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
@@ -293,10 +300,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wrtdcmsm9s8uw56wksn3.webp" width="24" height="24" alt="Superblocks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Superblocks](https://jobo.world/company/Superblocks)
 
 * **[Software Engineer - Infrastructure](https://boards.greenhouse.io/superblocks/jobs/4024364005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
-
-* **[Technical Control Engineer (Site Startup)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer--Site-Startup-_R4781)** — _n/a_ _(posted 2025-06-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t7hnejks5zv8kbaydiad.webp" width="24" height="24" alt="Tebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tebra](https://jobo.world/company/Tebra)
 
@@ -332,4 +335,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-25_
+_Updated automatically — 2025-07-26_
