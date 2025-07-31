@@ -150,6 +150,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[DevOps Engineer](https://job-boards.greenhouse.io/forwardnetworks/jobs/6652795003)** — _n/a_ _(posted 2025-07-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/axruduxnqug3eoqn0chh.webp" width="24" height="24" alt="FreshBooks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FreshBooks](https://jobo.world/company/FreshBooks)
+
+* **[Staff Engineer, Web Operations](https://jobs.smartrecruiters.com/Freshworks/744000071401334-staff-engineer-web-operations?oga=true)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
 
 * **[Senior Site Reliability Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Senior-Site-Reliability-Engineer_JR-202511062)** — ¤206,315 – ¤216,315 USD _(posted 2025-06-27)_
@@ -158,10 +162,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cx1jxbij2fiwfn1atfex.webp" width="24" height="24" alt="GitLab logo" style="vertical-align:middle"/>&nbsp;&nbsp;[GitLab](https://jobo.world/company/GitLab)
 
 * **[Principal Engineer, Infrastructure Platforms](https://job-boards.greenhouse.io/gitlab/jobs/7913752002)** — ¤140,000 – ¤200,000 USD _(posted 2025-05-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
-
-* **[Site Reliability Engineer](https://jobs.lever.co/goodleap/82480296-d5a3-4569-9de3-b04ca63c351f)** — _n/a_ _(posted 2025-05-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/duudfzm9nsk8vg5zdvws.webp" width="24" height="24" alt="Grafana Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Grafana Labs](https://jobo.world/company/Grafana-Labs)
 
@@ -207,10 +207,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjahxbscuxlyey0keefe.webp" width="24" height="24" alt="Loop logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Loop](https://jobo.world/company/Loop)
 
 * **[Engineering Manager - DevOps](https://jobs.lever.co/loopreturns/9ee9f363-5b7c-4eb9-a704-0ac7b83beb46)** — _n/a_ _(posted 2025-07-23)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/srry4v99yg18r3o0owsd.webp" width="24" height="24" alt="Maven Clinic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Maven Clinic](https://jobo.world/company/Maven-Clinic)
-
-* **[Senior Software Engineer, Infrastructure](https://job-boards.greenhouse.io/mavenclinic/jobs/7956732002)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pskgbtvzunfrwxtkuyvl.webp" width="24" height="24" alt="Mission Lane logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mission Lane](https://jobo.world/company/Mission-Lane)
 
@@ -271,6 +267,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Infrastructure Engineering Manager](https://jobs.ashbyhq.com/readme/68e43f76-41be-43f9-aaea-604b251c16be)** — _n/a_ _(posted 2025-04-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mryrjezblnfpjtjmae2c.webp" width="24" height="24" alt="Reddit logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reddit](https://jobo.world/company/Reddit)
+
+* **[Senior Software Engineer, Compute Platform &amp; Orchestration](https://job-boards.greenhouse.io/reddit/jobs/7062589)** — _n/a_ _(posted 2025-07-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vunepkbbyb0nzxuzmazf.webp" width="24" height="24" alt="Rogo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rogo](https://jobo.world/company/Rogo)
 
 * **[Forward Deploy Engineer](https://jobs.ashbyhq.com/rogo/180e1eb4-c1a9-4b36-a48e-c057221a2d6c)** — _n/a_ _(posted 2025-03-14)_
@@ -278,10 +278,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
 * **[DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/47e2b427-1cff-4c66-b419-06aaedd2a875)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
-
-* **[DevOps / QA Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/afc8a0dd-0156-4d05-bfd0-0007a5bcfd00)** — _n/a_ _(posted 2025-06-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lifhpwpjwz9hxhi1xkq0.webp" width="24" height="24" alt="StrongDM logo" style="vertical-align:middle"/>&nbsp;&nbsp;[StrongDM](https://jobo.world/company/StrongDM)
 
@@ -317,6 +313,10 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Software Engineer](https://job-boards.greenhouse.io/vectara/jobs/4731119008)** — _n/a_ _(posted 2025-05-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
+
+* **[Software Engineer, Compute](https://job-boards.greenhouse.io/vercel/jobs/5551619004)** — _n/a_ _(posted 2025-07-03)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ptuq8bmeadcras6mz8tu.webp" width="24" height="24" alt="Verinext logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Verinext](https://jobo.world/company/Verinext)
 
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
@@ -326,4 +326,4 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 * **[Senior Principal Software Engineer (Security Clearance Required)](https://job-boards.greenhouse.io/zscaler/jobs/4758429007)** — _n/a_ _(posted 2025-06-10)_
 
 ---
-_Updated automatically — 2025-07-30_
+_Updated automatically — 2025-07-31_
