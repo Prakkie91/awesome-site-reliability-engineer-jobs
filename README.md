@@ -6,6 +6,11 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 ---
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xrhzpur0rgprhnivjeq9.webp" width="24" height="24" alt="1Password logo" style="vertical-align:middle"/>&nbsp;&nbsp;[1Password](https://jobo.world/company/1Password)
+
+* **[Director, Platform Engineering](https://jobs.ashbyhq.com/1password/d01e9496-f1f3-498f-8b3d-bb8c0578c30c)** — _n/a_ _(posted 2025-08-01)_
+* **[Engineering Manager, Engineering Shared Services](https://jobs.ashbyhq.com/1password/0b6e32b9-3c70-4af2-ab5c-900ae34311f5)** — _n/a_ _(posted 2025-08-01)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eqtxryrzzr3osa9lrxfb.webp" width="24" height="24" alt="Acronis logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Acronis](https://jobo.world/company/Acronis)
 
 * **[Senior Systems Engineer – Cloud Platform](https://acronis.wd3.myworkdayjobs.com/acronis_careers/job/USA---Remote/Senior-Systems-Engineer---Cloud-Platform_R-100335)** — _n/a_ _(posted 2025-06-27)_
@@ -62,10 +67,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Senior Data Reliability Engineer](https://job-boards.greenhouse.io/calendly/jobs/8084914002)** — _n/a_ _(posted 2025-07-22)_
 * **[Senior Engineering Manager, Infrastructure](https://job-boards.greenhouse.io/calendly/jobs/8018727002)** — _n/a_ _(posted 2025-05-31)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
-
-* **[Software Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Software-Engineer_JR10397-1)** — _n/a_ _(posted 2025-06-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kbjuvkagbkxjkxj883nu.webp" width="24" height="24" alt="Chainlink Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainlink Labs](https://jobo.world/company/Chainlink-Labs)
 
@@ -283,7 +284,6 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wrtdcmsm9s8uw56wksn3.webp" width="24" height="24" alt="Superblocks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Superblocks](https://jobo.world/company/Superblocks)
 
 * **[Site Reliability Engineer](https://job-boards.greenhouse.io/superblocks/jobs/4590741005)** — _n/a_ _(posted 2025-07-29)_
-* **[Software Engineer - Infrastructure](https://boards.greenhouse.io/superblocks/jobs/4024364005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t7hnejks5zv8kbaydiad.webp" width="24" height="24" alt="Tebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tebra](https://jobo.world/company/Tebra)
 
@@ -310,17 +310,17 @@ Browse a wide range of remote Site Reliability Engineer positions available glob
 
 * **[Software Engineer](https://job-boards.greenhouse.io/vectara/jobs/4731119008)** — _n/a_ _(posted 2025-05-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
-
-* **[Software Engineer, Compute](https://job-boards.greenhouse.io/vercel/jobs/5551619004)** — _n/a_ _(posted 2025-07-03)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ptuq8bmeadcras6mz8tu.webp" width="24" height="24" alt="Verinext logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Verinext](https://jobo.world/company/Verinext)
 
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ear5vw8exhnxr7ggu4s5.webp" width="24" height="24" alt="Virtuous logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Virtuous](https://jobo.world/company/VirtuousCRM)
+
+* **[Site Reliability Engineer (.Net)](https://jobs.ashbyhq.com/virtuous/f52b7a56-14d7-4f92-b2df-5d1660d04d6f)** — _n/a_ _(posted 2025-08-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
 * **[Senior Principal Software Engineer (Security Clearance Required)](https://job-boards.greenhouse.io/zscaler/jobs/4758429007)** — _n/a_ _(posted 2025-06-10)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
